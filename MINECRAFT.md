@@ -64,10 +64,10 @@ When updating server plugins, make sure to note **A)** the latest version of the
 | [CoreProtect](https://www.spigotmc.org/resources/8631/)        |   `1.20.6` |               `22.4` |                         |
 | [DiscordSRV](https://www.spigotmc.org/resources/18494/)        |   `1.20.6` |             `1.27.0` |                         |
 | [EntitySize](https://www.spigotmc.org/resources/16497/)        |   `1.20.6` |                `1.2` |                         |
-| [EssentialsX](https://www.spigotmc.org/resources/9089/)        |   `1.20.6` |         `2.21.0-dev` |                         |
-| [EssentialsXChat](https://www.spigotmc.org/resources/9089/)    |   `1.20.6` |         `2.21.0-dev` |                         |
-| [EssentialsXProtect](https://www.spigotmc.org/resources/9089/) |   `1.20.6` |         `2.21.0-dev` |                         |
-| [EssentialsXSpawn](https://www.spigotmc.org/resources/9089/)   |   `1.20.6` |         `2.21.0-dev` |                         |
+| [EssentialsX](https://www.spigotmc.org/resources/9089/)        |   `1.20.6` |     `2.21.0-dev+102` |                         |
+| [EssentialsXChat](https://www.spigotmc.org/resources/9089/)    |   `1.20.6` |     `2.21.0-dev+102` |                         |
+| [EssentialsXProtect](https://www.spigotmc.org/resources/9089/) |   `1.20.6` |     `2.21.0-dev+102` |                         |
+| [EssentialsXSpawn](https://www.spigotmc.org/resources/9089/)   |   `1.20.6` |     `2.21.0-dev+102` |                         |
 | [GSit](https://www.spigotmc.org/resources/62325/)              |   `1.20.6` |              `1.9.5` |                         |
 | [Lasso](https://www.spigotmc.org/resources/54815/)             | ⚠️`1.20.4` |               `1.11` | no `1.20.6` support yet |
 | [LPC](https://www.spigotmc.org/resources/68965/)               |   `1.20.6` |              `3.6.0` |           (1)           |
