@@ -63,6 +63,7 @@ When updating server plugins, make sure to note **A)** the latest version of the
 | [ChestSort](https://www.spigotmc.org/resources/59773/)         |   `1.20.6` |             `14.1.0` |                         |
 | [CoreProtect](https://www.spigotmc.org/resources/8631/)        |   `1.20.6` |               `22.4` |                         |
 | [DiscordSRV](https://www.spigotmc.org/resources/18494/)        |   `1.20.6` |             `1.27.0` |                         |
+| [EntitySize](https://www.spigotmc.org/resources/16497/)        |   `1.20.6` |                `1.2` |                         |
 | [EssentialsX](https://www.spigotmc.org/resources/9089/)        |   `1.20.6` |         `2.21.0-dev` |                         |
 | [EssentialsXChat](https://www.spigotmc.org/resources/9089/)    |   `1.20.6` |         `2.21.0-dev` |                         |
 | [EssentialsXProtect](https://www.spigotmc.org/resources/9089/) |   `1.20.6` |         `2.21.0-dev` |                         |
@@ -77,7 +78,6 @@ When updating server plugins, make sure to note **A)** the latest version of the
 | [PrefiX](https://www.spigotmc.org/resources/70359/)            |   `1.20.6` |                `7.2` |                         |
 | [ProtocolLib](https://www.spigotmc.org/resources/1997/)        |   `1.20.6` | `5.3.0-SNAPSHOT-723` |                         |
 | [RHEasyCrops](https://www.spigotmc.org/resources/86956/)       |   `1.20.6` |            `1.20_R5` |                         |
-| [ServerLinks](https://www.spigotmc.org/resources/117309/)      |   `1.20.6` |              `1.0.0` |                         |
 | [ShulkerPacks](https://www.spigotmc.org/resources/67466/)      |   `1.20.6` |              `1.6.4` |                         |
 | [SilkSpawners](https://www.spigotmc.org/resources/60063/)      |   `1.20.6` |              `2.2.1` |                         |
 | [Stress](https://www.spigotmc.org/resources/79374/)            |   `1.20.6` |              `1.0.3` |                         |
